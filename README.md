@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm a software architect and Front-End developer based in Leipzig.
 
@@ -9,3 +9,5 @@ I'm a software architect and Front-End developer based in Leipzig.
 🔊 I believe in a power of communication and speak 2 languages: German and English.
 
 Follow my journey 🚀
+
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,angular,materialui,nextjs,react,tailwind,vue)](https://skillicons.dev)<br/>

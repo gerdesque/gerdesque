@@ -10,6 +10,6 @@ I'm a software architect and Front-End developer based in Leipzig.
 
 Follow my journey 🚀
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,angular,materialui,nextjs,react,tailwind,vue)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,angular,astro,materialui,nextjs,react,tailwind,vue)](https://skillicons.dev)<br/>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
